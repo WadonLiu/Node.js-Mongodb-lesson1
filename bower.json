@@ -1,0 +1,24 @@
+{
+  "name": "imooc",
+  "description": "0",
+  "main": "app.js",
+  "authors": [
+    "liu"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "imooc"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
